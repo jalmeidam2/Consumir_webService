@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Consumir_webService</string>
+    <string name="login_de_acceso">Login de Acceso</string>
+    <string name="nombre">Nombre:</string>
+    <string name="name">Name</string>
+    <string name="clave">Clave:</string>
+    <string name="login">Login</string>
+</resources>
